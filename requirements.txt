@@ -1,0 +1,7 @@
+FlightRadar24
+unicornhathd
+numpy
+requests
+
+# for the simulator
+pygame

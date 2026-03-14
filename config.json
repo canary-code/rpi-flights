@@ -1,0 +1,14 @@
+{
+    "sleep": 10,
+    "location" :{
+        "latitude": 38.8977,
+        "longitude": -77.0365,
+        "radius": 35000
+    },
+    "airports": ["IAD", "BWI", "DCA"],
+    "colors": {
+        "home": [117,210,71],
+        "away": [252,76,2],
+        "landing": [67,89,255]
+    }
+}
