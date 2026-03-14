@@ -1,7 +1,7 @@
 # flights
 
 ## Hardware
-I run this on a Raspberry Pi 3 with a Pimoroni UnicornHat HD. I haven't tested it on other hardware.
+I run this on a Raspberry Pi 3 with a Pimoroni Unicorn Hat HD. I haven't tested it on other hardware. The Unicorn Hat HD was discontinued, but you may be able to find old stock or buy used on eBay. 
 
 ## Install
 
